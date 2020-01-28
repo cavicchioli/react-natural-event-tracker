@@ -40,14 +40,4 @@ Please ⭐️ this repository if this project helped you!
 
 Copyright © 2019 [Victor Cavichiolli](https://github.com/cavicchioli).<br />
 
----
-
-
-
-
-
-
-
-## Install and run
-
 
