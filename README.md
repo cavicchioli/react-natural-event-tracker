@@ -7,13 +7,18 @@
 Prerequisites:
 [Back-End API](https://github.com/cavicchioli/API.TariffComparison)
 
+Docker:
+```
+docker build --rm -f "Dockerfile" -t api.natural-event-tracker:1.0
+docker run --rm -d -p 80:80/tcp api.natural-event-tracker:1.0
+```
+
 
 Just run the following command at the root of the project:
 
 ```
 npm run install
 npm start
-```
 ```
 
 ## 🤝 Contributing
