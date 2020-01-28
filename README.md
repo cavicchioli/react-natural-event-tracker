@@ -1,4 +1,3 @@
-# API.NaturalEventTracker
 <h1 align="center">Welcome to Natural Event Tracker Front-End 🌎</h1>
 [EONET](https://eonet.sci.gsfc.nasa.gov/docs/v2.1)
 
